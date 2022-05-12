@@ -1,9 +1,6 @@
 # TestedeMutação
 
-Para executar a cobertura de código e teste de mutação citados nesse texto, primeiramente clone [esse repositório](https://github.com/PauloGoncalvesBH/teste-de-mutacao), executando:
 
-```sh
-git clone https://github.com/PauloGoncalvesBH/teste-de-mutacao.git
 ```
 
 Instale as dependências com o comando `npm install`.
