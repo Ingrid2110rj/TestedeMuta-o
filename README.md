@@ -1,7 +1,7 @@
 # TestedeMutação
 
 
-```
+
 
 Instale as dependências com o comando `npm install`.
 
@@ -29,12 +29,6 @@ O teste de mutação é executado com a biblioteca [stryker](https://www.npmjs.c
 npm run test:mutation
 ```
 
-#### Desafio
 
-O que acha de aumentar o score do teste de mutação de _60%_ para _100%_?
-
-Crie novo teste no arquivo [cnh.spec.js](/__tests__/cnh.spec.js) que mate 👿 as 2 mutações que estão sobrevivendo e mantenha a cobertura de código em _100%_.
-
----
 
 
